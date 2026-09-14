@@ -1,6 +1,6 @@
 # Ciao, sono Lorenzo D'Angeli 👋
 
-Laureato in Economia Aziendale specializzando in analisi dati, Intelligenza Artificiale e Agenti AI applicati al Business.
+Profilo ibrido con solida formazione in Economia Aziendale e un percorso di specializzazione in Data Analysis, Intelligenza Artificiale ed Agenti AI per il Business. Mi propongo come ponte tra i processi economico-finanziari e le soluzioni tecnologiche per l'analisi dei dati, il controllo di gestione e il supporto alle decisioni aziendali.
 
 ### 🎓 Formazione
 - **Laurea in Economia Aziendale e Management** (Tesi con Prof. Rainer Stefano Masera)
@@ -19,5 +19,6 @@ Laureato in Economia Aziendale specializzando in analisi dati, Intelligenza Arti
 
 ### 🏔️ Interessi Personali
 - **Alpinismo & Trekking in Quota:** Passione per la montagna che coltiva disciplina, pianificazione rigorosa, gestione del rischio e determinazione nel raggiungimento degli obiettivi.
+
 
 
