@@ -9,11 +9,11 @@ Laureato in Economia Aziendale con un percorso di specializzazione in Data Analy
 
 ### 🛠️ Competenze e Aree di Specializzazione
 - **Background Economico (Acquisito):** Controllo di gestione, analisi di bilancio, reportistica commerciale, analisi economico-finanziaria
-- **Data & AI Integration (In corso nel Master):** Microsoft Excel (Avanzato), SQL, Python (Pandas, NumPy), Tableau, Data Analysis, Agenti AI e soluzioni di Intelligenza Artificiale applicate ai processi aziendali
+- **Data e AI Integration (In corso nel Master):** Microsoft Excel (Avanzato), SQL, Python (Pandas, NumPy), Tableau, Data Analysis, Agenti AI e soluzioni di Intelligenza Artificiale applicate ai processi aziendali
 
 ### 💡 Soft Skill e Attitudine
-- **Analisi & Problem Solving:** Approccio strutturato al dato, orientato al dettaglio e alla risoluzione di problemi complessi.
-- **Adattabilità & Apprendimento Continuo:** Forte curiosità verso nuove tecnologie, strumenti di automazione e metodologie di analisi.
+- **Analisi e Problem Solving:** Approccio strutturato al dato, orientato al dettaglio e alla risoluzione di problemi complessi.
+- **Adattabilità e Apprendimento Continuo:** Forte curiosità verso nuove tecnologie, strumenti di automazione e metodologie di analisi.
 - **Teamwork e Comunicazione:** Capacità di sintetizzare dati tecnici in insight chiari per decisioni di business.
 
 ### 🏔️ Interessi Personali
