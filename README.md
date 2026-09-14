@@ -5,7 +5,7 @@ Laureato in Economia Aziendale con un percorso di specializzazione in Data Analy
 ### 🎓 Formazione
 - **Laurea in Economia Aziendale e Management** (Tesi con Prof. Rainer Stefano Masera)
 - **Financial Advisory & Wealth Management Academy** (SDA Bocconi / ING Italia)
-- **Master in AI & Agenti AI per il Business** (In corso - UniMarconi)
+- **Master in AI e Agenti AI per il Business** (In corso - UniMarconi)
 
 ### 🛠️ Competenze e Aree di Specializzazione
 - **Background Economico (Acquisito):** Controllo di gestione, analisi di bilancio, reportistica commerciale, analisi economico-finanziaria
